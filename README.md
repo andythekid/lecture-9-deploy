@@ -1,12 +1,12 @@
 # Курс **Технологии разработки интернет-приложений**. 2 семестр
-## Лекция 6: Шаблоны django
+## Лекция 9: Развертывание на production
 
 ### Запуск
 
 Клонируем репозиторий
 ```
-git clone https://<username>:<personal_token>@git.voklaf.ru/promtechdesign/internet-apps-2-semestr/lecture-6-templates.git
-cd lecture-6-templates
+git clone https://github.com/andythekid/lecture-9-deploy.git
+cd lecture-9-deploy
 ```
 
 Создаем виртуальное окружение:
